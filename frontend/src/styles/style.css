@@ -1,0 +1,13 @@
+/* body {
+    background-color: black !important;
+    padding: 20%;
+} */
+.my-modal .modal-content {
+    background-color: black;
+  }
+
+  .modal-fullscreen .modal-body {
+    overflow-y: auto;
+    height: fit-content;
+    margin-top: 13%
+    }
